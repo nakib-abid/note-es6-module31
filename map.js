@@ -25,3 +25,6 @@ for(const num of numbers){
     doubled.push(double)
 }
 // console.log(doubled);
+
+
+// forEach কাজ করে map এর মত কিন্তু map এর মত return করেনা
